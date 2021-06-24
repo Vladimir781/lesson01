@@ -47,3 +47,4 @@ personalMovieDB.movies[film] =star;
 personalMovieDB.movies[film2] =star2;
 
 console.log(personalMovieDB);
+console.log(personalMovieDB);
